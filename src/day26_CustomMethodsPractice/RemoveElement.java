@@ -1,7 +1,5 @@
 package day26_CustomMethodsPractice;
 
-import utilities.ArraysUtility;
-
 import java.util.Arrays;
 
 public class RemoveElement {

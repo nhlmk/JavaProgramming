@@ -1,4 +1,4 @@
-package utilities;
+package day42_Exceptions.utilities;
 
 import java.util.Arrays;
 

@@ -1,8 +1,6 @@
 package day26_CustomMethodsPractice;
 
-import utilities.ArraysUtility;
-
-import java.util.Arrays;
+import day42_Exceptions.utilities.ArraysUtility;
 
 public class MergeArrays {
 

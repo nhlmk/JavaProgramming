@@ -1,6 +1,6 @@
 package day34_GarbageCollection;
 import static day34_GarbageCollection.Circle.*;
-import static utilities.MathUtility.*;
+import static day42_Exceptions.utilities.MathUtility.*;
 public class Test {
     public static void main(String[] args) {
         System.out.println(pi);
