@@ -10,7 +10,7 @@ public class FibonacciSeq {
         int sum ;
         String res = " " + num1 + " " + num2 + " ";
 
-        for (int i = 0; i <= 6 ; i++) {
+        for (int i = 0; i <= 7 ; i++) {
 sum = num1 + num2;
 num1 = num2;
 num2 = sum;
